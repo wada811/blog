@@ -1,6 +1,6 @@
 ---
-name: Article
-about: The article default template.
+name: ISSUE_TEMPLATE
+about: The default template.
 title: ''
 labels: ''
 assignees: 'wada811'
